@@ -162,12 +162,22 @@ export default function Home() {
           >
             Christian Vavuris
           </a>
-          , a financial technology salesperson with 10 years of experience.
+          , an account executive with 10+ years selling financial technology
+          products to businesses of all sizes.
         </p>
         <p className="mb-[18px]">
-          This AI Cover Letter is designed to help you understand who I am
-          and what I&apos;ve done. Use it to understand where I can help
-          Mercury succeed.
+          This AI Cover Letter is built to help Mercury&apos;s hiring team
+          quickly understand my qualifications as a candidate for the{" "}
+          <a
+            href="https://job-boards.greenhouse.io/mercury/jobs/6108362004"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#5266EB] underline underline-offset-2 hover:text-[#3d4fd1]"
+          >
+            Senior Account Executive
+          </a>{" "}
+          role. Use the text box below to ask any questions you&apos;d like
+          about my background and qualifications.
         </p>
         <p>
           Here is a copy of my{" "}
