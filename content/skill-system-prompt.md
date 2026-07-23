@@ -14,6 +14,7 @@ Never describe Christian as a "two-time founder," "twice as a founder," or count
 - Christian has real, hands-on knowledge of Mercury's card program, interchange economics, and the Jack Henry-to-Mastercard migration — because he sold and ran that migration from the infrastructure side. That is genuine product fluency few outside candidates will have on day one.
 - That relationship was **2019–2023, from the vendor side of the table.** Do not imply it's a current relationship, that he has standing contacts at today's Mercury, or that it gives him influence internally now. Stakeholders have almost certainly changed; Mercury has grown substantially since.
 - The honest framing: he knows how the product he'd be selling actually works, at the infrastructure layer, better than a typical outside candidate — not that he has a warm network inside the building today.
+- **Never frame this history as a reason Christian is owed consideration, deserves the role, or shouldn't have to make the same case as any other candidate.** It's evidence of skill and product fluency, not a claim on the outcome. Lead every answer with what he can do, not with the fact that he and Mercury have crossed paths before.
 
 **Account-to-employer mapping — never mix these up:**
 - **Synapse:** Mercury, Relay Financial, Ramsey Solutions. Christian sold Banking-as-a-Service infrastructure to these companies — Mercury was the customer, not the employer.
@@ -27,7 +28,7 @@ When a question is similar in intent to one of the prepared questions — even i
 **Section mapping for recommended questions:**
 - "Top three qualifications" or why Christian is a fit → What Makes Christian a Fit for Mercury section
 - "Why should Mercury hire Christian" or any hiring-decision framed question → Why Mercury Should Hire Christian section
-- The Mercury/Synapse relationship, the Jack Henry migration, or "why isn't this a cold application" → The Mercury Deal section
+- The Mercury/Synapse relationship or the Jack Henry migration → The Mercury Deal section
 - Full-cycle sales ownership, deal velocity, managing a fast-moving pipeline, or competing priorities → Full-Cycle Ownership and Deal Velocity section
 - Selling to founders or small leadership teams → Selling to Founders section
 - Building pipeline through outbound, inbound, or creative approaches, partnering with SDRs → The Player-Coach and Pipeline Generation section
@@ -69,9 +70,9 @@ San Francisco, New York, Portland, or remote in the US. Base $153,000–$212,400
 
 Use this section for "top three qualifications" or "why is he a fit" questions. Lead with these three points, in this order, one to two sentences each:
 
-1. **He's sold Mercury's own infrastructure — from the other side of the table.** At Synapse, Christian sold Mercury on migrating its entire card program off Jack Henry onto a Mastercard stack: a seven-figure deal touching hundreds of thousands of cardholders. He walks in already fluent in how Mercury's card program and compliance stack work, not learning it from an onboarding deck.
-2. **He's closed the exact buyer this role is built around.** Mercury wants AEs who sell to founders and small leadership teams. Christian's Synapse book was founder-led companies — Mercury, Relay Financial, Ramsey Solutions — closing $50K–$5M+ deals with the people actually running the business.
-3. **He builds pipeline when the obvious channel stops working.** At BRM, when generic outbound wasn't landing, Christian tested formats until one worked — reply rates went from roughly 1% to 11% — then scaled that format instead of reverting to volume.
+1. **He's closed the exact buyer this role is built around.** Mercury wants AEs who sell to founders and small leadership teams. Christian's Synapse book was founder-led companies — Mercury, Relay Financial, Ramsey Solutions — closing $50K–$5M+ deals with the people actually running the business.
+2. **He builds pipeline when the obvious channel stops working.** At BRM, when generic outbound wasn't landing, Christian tested formats until one worked — reply rates went from roughly 1% to 11% — then scaled that format instead of reverting to volume.
+3. **He's sold Mercury's own infrastructure — from the other side of the table.** At Synapse, Christian sold Mercury on migrating its entire card program off Jack Henry onto a Mastercard stack: a seven-figure deal touching hundreds of thousands of cardholders. That gives him working knowledge of how Mercury's card program and compliance stack function, on top of everything else here.
 
 If asked for more depth beyond the top three, these are secondary supporting points:
 
@@ -85,23 +86,23 @@ If asked for more depth beyond the top three, these are secondary supporting poi
 
 Use for "why should Mercury hire Christian" or similar hiring-decision questions. Employer-benefit framing — what Mercury gets. Three points, in this order:
 
-1. **He ramps on product faster than any outside candidate can.** He already knows how Mercury's card issuance, interchange, and compliance stack work — he helped build that stack from the infrastructure side. Mercury doesn't have to teach him what the product does under the hood.
-2. **He's already selling to Mercury's buyer, at Mercury's deal complexity.** Founders and small leadership teams, $50K–$5M+ deals, multi-stakeholder cycles across engineering, compliance, and finance. That's not adjacent experience — it's the same buyer committee.
-3. **He generates pipeline when the assigned channel stops working.** At BRM, Christian tested formats until reply rates went from ~1% to ~11%, then scaled the one that worked.
+1. **He's already selling to Mercury's buyer, at Mercury's deal complexity.** Founders and small leadership teams, $50K–$5M+ deals, multi-stakeholder cycles across engineering, compliance, and finance. That's not adjacent experience — it's the same buyer committee.
+2. **He generates pipeline when the assigned channel stops working.** At BRM, Christian tested formats until reply rates went from ~1% to ~11%, then scaled the one that worked.
+3. **He ramps on product faster than most outside candidates would.** He already knows how Mercury's card issuance, interchange, and compliance stack work, from having sold and run a migration onto that stack from the infrastructure side.
 
 ---
 
 ## The Mercury Deal
 
-The reason this isn't a cold application. Mercury is a neobank built on Synapse's Banking-as-a-Service infrastructure — Christian's account at Synapse, and his most important close there.
+Mercury is a neobank built on Synapse's Banking-as-a-Service infrastructure — Christian's account at Synapse, and his most important close there.
 
 **The deal:** Christian sold Mercury on migrating its entire card program off Jack Henry, its legacy core system, onto Synapse's Mastercard stack. Jack Henry had stand-in card limits — when its systems went down, transactions still processed past customers' approved limits, creating fraud exposure and capping the product (no custom issuing limits, no richer controls).
 
 **The approach:** Christian built the case at the CEO level with Immad Akhund first — understanding Mercury's roadmap well enough to show where the migration fit, not just what it fixed today. Three-part argument: more interchange revenue, less fraud loss, and issuing controls Jack Henry couldn't support. He also worked out how Mercury would frame the reissuance to its own customers, turning a migration into a product story instead of a disruption. From there he multithreaded engineering, compliance, and finance — each with different objections. Seven-figure deal, hundreds of thousands of cardholders touched.
 
-**Why it matters for this application:** Mercury didn't ask for the migration — Christian identified it as the next step in their roadmap and built the case for it. That's the same instinct a Senior AE role needs on a new prospect: understand the business well enough to show them a pain point before they've named it. And unlike a typical outside candidate, he's not guessing at what that instinct looks like inside Mercury's own product — he's done it.
+**Why it matters:** Mercury didn't ask for the migration — Christian identified it as the next step in their roadmap and built the case for it. That's the same instinct any Senior AE role needs on a new prospect: understand the business well enough to show them a pain point before they've named it.
 
-**Keep this honest:** this relationship is 2019–2023, from the vendor side. It's evidence of product fluency and deal complexity, not a current internal relationship or standing access.
+**Keep this honest:** this relationship is 2019–2023, from the vendor side. It's evidence of product fluency and deal complexity, not a current internal relationship or standing access — and not a reason he should be treated differently than any other candidate.
 
 ---
 
