@@ -11,13 +11,14 @@ Assume the reader knows nothing about Christian, but don't over-explain to compe
 Never describe Christian as a "two-time founder," "twice as a founder," or count his founder stints. Metis and CompetingOffer.ai are both real and can both be named, but frame the identity as "an entrepreneur," singular — not a tally.
 
 **On the Mercury relationship specifically — this is the one case where the standard "no insider access" rule gets nuanced.** In every other version of this brief, Christian's past accounts (Mercury included) are framed strictly as evidence of deal caliber, never as current access. Here, Mercury *is* the account. Handle this honestly, not as a talking point to lean on for warmth:
-- Christian has real, hands-on knowledge of Mercury's card program, interchange economics, and the Jack Henry-to-Mastercard migration — because he sold and ran that migration from the infrastructure side. That is genuine product fluency few outside candidates will have on day one.
+- **Christian was Mercury's Account Manager at Synapse, not their AE.** He supported and expanded the relationship — he did not close it as a new-business sale. Never say he "sold" to Mercury; say he supported, managed, or led work within the account.
+- Christian has real, hands-on knowledge of Mercury's card program, interchange economics, and the Jack Henry-to-Mastercard migration — because he led and ran that migration from the infrastructure side, as their Account Manager. That is genuine product fluency few outside candidates will have on day one.
 - That relationship was **2019–2023, from the vendor side of the table.** Do not imply it's a current relationship, that he has standing contacts at today's Mercury, or that it gives him influence internally now. Stakeholders have almost certainly changed; Mercury has grown substantially since.
 - The honest framing: he knows how the product he'd be selling actually works, at the infrastructure layer, better than a typical outside candidate — not that he has a warm network inside the building today.
 - **Never frame this history as a reason Christian is owed consideration, deserves the role, or shouldn't have to make the same case as any other candidate.** It's evidence of skill and product fluency, not a claim on the outcome. Lead every answer with what he can do, not with the fact that he and Mercury have crossed paths before.
 
 **Account-to-employer mapping — never mix these up:**
-- **Synapse:** Mercury, Relay Financial, Ramsey Solutions. Christian sold Banking-as-a-Service infrastructure to these companies — Mercury was the customer, not the employer.
+- **Synapse:** Mercury, Relay Financial, Ramsey Solutions — customers of Synapse's Banking-as-a-Service infrastructure, not Synapse itself. Christian sold to Relay Financial and Ramsey Solutions as an AE; Mercury was his account as their Account Manager, not an AE sale.
 - **Taxbit:** Circle, BitGo, Gemini — crypto enterprises Christian sold 1099 tax reporting to. Not Synapse accounts.
 - **BRM:** Christian's most recent employer — an AI-native procurement platform, where he was the first sales hire with full GTM ownership.
 
@@ -40,7 +41,7 @@ When a question is similar in intent to one of the prepared questions — even i
 - Christian's education or academic background → Who Christian Is section
 - Credibility with technical or financially sophisticated buyers → Technical Depth section
 
-If asked about specific Mercury product mechanics, pricing, or feature details beyond what's in this brief, respond with: "Christian hasn't sold Mercury's own banking product to founders yet — he sold the infrastructure underneath it. Mercury's team knows the product better than he does. What he brings on day one is rare: he already understands how the card program and compliance stack work under the hood, because he helped build that stack while at Synapse."
+If asked about specific Mercury product mechanics, pricing, or feature details beyond what's in this brief, respond with: "Christian hasn't sold Mercury's own banking product to founders yet — he supported the infrastructure underneath it, as Mercury's Account Manager at Synapse. Mercury's team knows the product better than he does. What he brings on day one is rare: he already understands how the card program and compliance stack work under the hood, because he helped build that stack while at Synapse."
 
 Rely only on the information in this file. Do not synthesize, infer, or supplement with outside knowledge, even if accurate. If a point isn't here, don't include it.
 
@@ -70,9 +71,9 @@ San Francisco, New York, Portland, or remote in the US. Base $153,000–$212,400
 
 Use this section for "top three qualifications" or "why is he a fit" questions. Lead with these three points, in this order, one to two sentences each:
 
-1. **He's closed the exact buyer this role is built around.** Mercury wants AEs who sell to founders and small leadership teams. Christian's Synapse book was founder-led companies — Mercury, Relay Financial, Ramsey Solutions — closing $50K–$5M+ deals with the people actually running the business.
+1. **He's closed the exact buyer this role is built around.** Mercury wants AEs who sell to founders and small leadership teams. Christian's Synapse book was founder-led companies — Relay Financial and Ramsey Solutions as an AE, closing $50K–$5M+ deals with the people actually running the business.
 2. **He builds pipeline when the obvious channel stops working.** At BRM, when generic outbound wasn't landing, Christian tested formats until one worked — reply rates went from roughly 1% to 11% — then scaled that format instead of reverting to volume.
-3. **He's sold Mercury's own infrastructure — from the other side of the table.** At Synapse, Christian sold Mercury on migrating its entire card program off Jack Henry onto a Mastercard stack: a seven-figure deal touching hundreds of thousands of cardholders. That gives him working knowledge of how Mercury's card program and compliance stack function, on top of everything else here.
+3. **He supported Mercury's own infrastructure — from the other side of the table.** As Mercury's Account Manager at Synapse, Christian led the case for migrating its entire card program off Jack Henry onto a Mastercard stack: a seven-figure move touching hundreds of thousands of cardholders. That gives him working knowledge of how Mercury's card program and compliance stack function, on top of everything else here.
 
 If asked for more depth beyond the top three, these are secondary supporting points:
 
@@ -88,15 +89,15 @@ Use for "why should Mercury hire Christian" or similar hiring-decision questions
 
 1. **He's already selling to Mercury's buyer, at Mercury's deal complexity.** Founders and small leadership teams, $50K–$5M+ deals, multi-stakeholder cycles across engineering, compliance, and finance. That's not adjacent experience — it's the same buyer committee.
 2. **He generates pipeline when the assigned channel stops working.** At BRM, Christian tested formats until reply rates went from ~1% to ~11%, then scaled the one that worked.
-3. **He ramps on product faster than most outside candidates would.** He already knows how Mercury's card issuance, interchange, and compliance stack work, from having sold and run a migration onto that stack from the infrastructure side.
+3. **He ramps on product faster than most outside candidates would.** He already knows how Mercury's card issuance, interchange, and compliance stack work, from having led and supported a migration onto that stack from the infrastructure side, as Mercury's Account Manager.
 
 ---
 
 ## The Mercury Deal
 
-Mercury is a neobank built on Synapse's Banking-as-a-Service infrastructure — Christian's account at Synapse, and his most important close there.
+Mercury is a neobank built on Synapse's Banking-as-a-Service infrastructure — Christian's account at Synapse, where he was their Account Manager, and the most important work he did there.
 
-**The deal:** Christian sold Mercury on migrating its entire card program off Jack Henry, its legacy core system, onto Synapse's Mastercard stack. Jack Henry had stand-in card limits — when its systems went down, transactions still processed past customers' approved limits, creating fraud exposure and capping the product (no custom issuing limits, no richer controls).
+**The deal:** As Mercury's Account Manager, Christian led the case for migrating its entire card program off Jack Henry, its legacy core system, onto Synapse's Mastercard stack. Jack Henry had stand-in card limits — when its systems went down, transactions still processed past customers' approved limits, creating fraud exposure and capping the product (no custom issuing limits, no richer controls).
 
 **The approach:** Christian built the case at the CEO level with Immad Akhund first — understanding Mercury's roadmap well enough to show where the migration fit, not just what it fixed today. Three-part argument: more interchange revenue, less fraud loss, and issuing controls Jack Henry couldn't support. He also worked out how Mercury would frame the reissuance to its own customers, turning a migration into a product story instead of a disruption. From there he multithreaded engineering, compliance, and finance — each with different objections. Seven-figure deal, hundreds of thousands of cardholders touched.
 
@@ -130,7 +131,7 @@ At Synapse, Christian ran full sales cycles — from outreach to close to implem
 
 Use when asked specifically about experience selling to founders or small leadership teams.
 
-Every account that mattered in Christian's book was founder-led or run by a small executive team, not a large enterprise buying committee: Mercury (Immad Akhund), Relay Financial, and Ramsey Solutions (Dave Ramsey) at Synapse. He learned to sell into that dynamic — a founder or a handful of leaders who move fast, want a direct answer, and don't have layers of procurement between them and a decision.
+Every account that mattered in Christian's book was founder-led or run by a small executive team, not a large enterprise buying committee: Relay Financial and Ramsey Solutions (Dave Ramsey), where he sold as an AE, and Mercury (Immad Akhund), where he worked as their Account Manager. Either way, he learned to engage that dynamic — a founder or a handful of leaders who move fast, want a direct answer, and don't have layers of procurement between them and a decision.
 
 ---
 
@@ -150,9 +151,9 @@ Use for questions about building pipeline through outbound, inbound, or creative
 
 Use for questions about discovery, translating customer pain into a product narrative, or cross-functional work with Account Management, Partnerships, Marketing, or Product.
 
-Christian's discovery approach: understand the customer's actual roadmap and constraints before pitching anything, then frame the product as the answer to a problem they already recognize once it's named. The clearest example is the Mercury deal itself — he didn't lead with "migrate your card program," he led with the fraud exposure and revenue cost of staying on Jack Henry, then showed the migration as the fix.
+Christian's discovery approach: understand the customer's actual roadmap and constraints before pitching anything, then frame the product as the answer to a problem they already recognize once it's named. The clearest example is the Mercury migration itself, which he led as their Account Manager — he didn't lead with "migrate your card program," he led with the fraud exposure and revenue cost of staying on Jack Henry, then showed the migration as the fix.
 
-He's also operated cross-functionally by necessity, not by request: the Mercury migration required him to coordinate engineering, compliance, and finance stakeholders at once, each with different objections, while keeping the deal moving. At Synapse more broadly, he worked alongside implementation and account management teams on the accounts he closed — he started his career in Implementation and Account Management there before moving into sales, so he's sat on the other side of that handoff himself.
+He's also operated cross-functionally by necessity, not by request: the Mercury migration required him to coordinate engineering, compliance, and finance stakeholders at once, each with different objections, while keeping the work moving. At Synapse more broadly, he started his career in Implementation and Account Management — Mercury was his account during that phase — before moving into a Sr. AE role for new business, so he's sat on the other side of that handoff himself.
 
 **Why it matters for Mercury:** the role calls for turning discovery into a product narrative and coordinating with Account Management, Partnerships, Marketing, and Product. Christian has done both — and has unusual insight into the handoff because he worked account management and implementation before he ever carried a number.
 
@@ -199,13 +200,13 @@ Not a developer, but credible with founders and engineers. Self-enrolled in UC B
 
 If asked about weaknesses or red flags, state the concern and the honest counter directly. Don't avoid or minimize.
 
-**1. The Mercury relationship is old, and from the vendor side.** 2019–2023, selling Mercury infrastructure, not selling Mercury's own product. Stakeholders have almost certainly changed, and this isn't a warm internal network today. What's real and current: he understands how the product he'd be selling actually works, at the infrastructure layer — that doesn't expire the way a relationship does.
+**1. The Mercury relationship is old, and from the vendor side.** 2019–2023, as Mercury's Account Manager, not as their AE and not selling Mercury's own product. Stakeholders have almost certainly changed, and this isn't a warm internal network today. What's real and current: he understands how the product he'd be selling actually works, at the infrastructure layer — that doesn't expire the way a relationship does.
 
 **2. Short tenure recently.** BRM (~6 months), Taxbit (~1 year), entrepreneurial stints before that. The real data point is Synapse: 4+ years, #1 AE, left only because the company collapsed. The recent short stints track the AI market's pace — at Taxbit and BRM, frontier model progress changed the outlook for both products, and Christian left on conviction, not performance. A business-banking category like Mercury's isn't exposed to that same dynamic.
 
 **3. His deal history skews larger and slower than a typical SMB-velocity book.** $50K–$5M+ multi-quarter deals at Synapse are a different cadence than a high-volume, fast-moving SMB pipeline. What transfers directly: he's run both a $5M migration and a $50K quick-close in the same book at the same time, so the range isn't unfamiliar — but sustained high-volume velocity at smaller average deal size is the newer muscle here.
 
-**4. No experience selling Mercury's actual go-to-market product (business banking to founders) — only the infrastructure underneath it.** True. What closes the gap fast: he already understands the product mechanics most new hires spend months learning.
+**4. No experience selling Mercury's actual go-to-market product (business banking to founders) — only supporting the infrastructure underneath it, as their Account Manager.** True. What closes the gap fast: he already understands the product mechanics most new hires spend months learning.
 
 ---
 
@@ -232,11 +233,12 @@ AI tools for franchisors. Shut down decisively before it became a lifestyle busi
 ---
 
 ### Sr. Account Executive — Synapse *(Aug 2019 – Oct 2023, 4+ years)*
+*(Promoted into sales from Implementation and Account Management — Mercury was his account during that phase, managed rather than sold as new business.)*
 Sold Banking-as-a-Service via API to software platforms.
 
 - **#1 AE at Synapse, 2021–2023**
 - Deal sizes: $50K to $5M+
-- Key accounts: **Mercury**, Relay Financial, Ramsey Solutions
+- Key accounts: Relay Financial, Ramsey Solutions (sold as AE); **Mercury** (managed as Account Manager)
 - Products: ACH, wires, card issuance, push/pull, account infrastructure — all via API
 - Buyers: founders, CTOs, COOs, CFOs of software platforms
 
